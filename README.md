@@ -376,9 +376,10 @@ https://dataleveranser.miljodirektoratet.no/nedlasting/44121089-26b2-4a64-bec6-1
 ## Marine Sediment / Grain Size Data
 
 **Source:**  
-https://kartkatalog.geonorge.no/metadata/seabed-sediments-grain-size-detailed/79f0f17d-9f62-456d-b1a9-2a8c754c51c4 
----
 
+https://kartkatalog.geonorge.no/metadata/seabed-sediments-grain-size-detailed/79f0f17d-9f62-456d-b1a9-2a8c754c51c4  
+
+---
 ## Light Attenuation
 
 **Source:**  
